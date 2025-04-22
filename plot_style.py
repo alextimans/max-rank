@@ -22,4 +22,4 @@ matplotlib.rc("grid", alpha=0.3)
 matplotlib.rc("axes", grid=True)
 
 matplotlib.rc("font", **{"family": "serif", "serif": ["Palatino"]})
-matplotlib.rc("text", usetex=True)
+matplotlib.rc("text", usetex=False) # usetex=True for latex support
