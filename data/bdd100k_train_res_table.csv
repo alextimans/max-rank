@@ -1,0 +1,55 @@
+Method,Class,nr calib,mpiw,cov box
+Bonf.,Class Mean,44960,42.9513,0.9134
+Bonf.,Person,35748,27.0747,0.9131
+Bonf.,Bicycle,2032,55.6782,0.916
+Bonf.,Car,280277,37.927,0.9135
+Bonf.,Motorcycle,883,60.1595,0.9128
+Bonf.,Bus,5151,60.455,0.913
+Bonf.,Truck,10975,67.4933,0.9122
+Bonf.,Traffic Light,21950,15.8933,0.9083
+Bonf.,Stop Sign,2667,18.9295,0.9187
+Bonf.-Sidak,Class Mean,44960,42.1049,0.9102
+Bonf.-Sidak,Person,35748,26.5748,0.9098
+Bonf.-Sidak,Bicycle,2032,54.7535,0.9132
+Bonf.-Sidak,Car,280277,37.051,0.9103
+Bonf.-Sidak,Motorcycle,883,59.4491,0.9103
+Bonf.-Sidak,Bus,5151,58.9098,0.9094
+Bonf.-Sidak,Truck,10975,65.9317,0.9089
+Bonf.-Sidak,Traffic Light,21950,15.6576,0.9048
+Bonf.-Sidak,Stop Sign,2667,18.5114,0.9153
+Gumbel Copula,Class Mean,44960,40.444,0.9039
+Gumbel Copula,Person,35748,25.8873,0.9048
+Gumbel Copula,Bicycle,2032,53.146,0.9085
+Gumbel Copula,Car,280277,35.4183,0.9038
+Gumbel Copula,Motorcycle,883,57.3168,0.9015
+Gumbel Copula,Bus,5151,56.4559,0.9032
+Gumbel Copula,Truck,10975,62.3353,0.9014
+Gumbel Copula,Traffic Light,21950,15.3669,0.9006
+Gumbel Copula,Stop Sign,2667,17.6255,0.907
+Emp. Copula,Class Mean,44960,39.9836,0.9015
+Emp. Copula,Person,35748,25.2839,0.8998
+Emp. Copula,Bicycle,2032,51.5578,0.9028
+Emp. Copula,Car,280277,34.566,0.9001
+Emp. Copula,Motorcycle,883,58.2203,0.9053
+Emp. Copula,Bus,5151,55.6454,0.9009
+Emp. Copula,Truck,10975,62.1119,0.9009
+Emp. Copula,Traffic Light,21950,15.3653,0.9006
+Emp. Copula,Stop Sign,2667,17.1182,0.9013
+Max-T,Class Mean,44960,41.1136,0.9002
+Max-T,Person,35748,25.2977,0.8996
+Max-T,Bicycle,2032,54.9369,0.9007
+Max-T,Car,280277,34.6362,0.8999
+Max-T,Motorcycle,883,61.7477,0.8988
+Max-T,Bus,5151,57.5168,0.9005
+Max-T,Truck,10975,62.0357,0.9007
+Max-T,Traffic Light,21950,15.3196,0.9005
+Max-T,Stop Sign,2667,17.4184,0.9008
+Max-Rank,Class Mean,44960,39.6185,0.8999
+Max-Rank,Person,35748,25.2571,0.8996
+Max-Rank,Bicycle,2032,51.0433,0.9005
+Max-Rank,Car,280277,34.5276,0.8999
+Max-Rank,Motorcycle,883,56.5972,0.8988
+Max-Rank,Bus,5151,55.3103,0.9
+Max-Rank,Truck,10975,61.8884,0.9005
+Max-Rank,Traffic Light,21950,15.3437,0.9003
+Max-Rank,Stop Sign,2667,16.9807,0.8994

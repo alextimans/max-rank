@@ -27,7 +27,9 @@ If you find this repository useful, please consider citing our work:
 The [Robert Bosch GmbH](https://www.bosch.com) is acknowledged for financial support.
 
 ## Repo structure
-The code with details for reproducibility and runnables will be shared shortly, please wait a little longer.
+Some data, figures and experiment results can be found in ```data```. The experiment code is provided and explained in ```max_rank_exp.ipynb```. The ```plot_style.py``` file is used to render the figures (optionally indicate latex rendering).
+
+```env.yml``` contains an installable python environment to run the code. Using a conda-like package manager, this can be done by calling ```conda env create -f max-rank/env.yml``` and then ```conda activate maxrank```. However, in essence the experiments (besides object detection) rely on only a handful of packages: ```numpy, pandas, scipy, scikit-learn, matplotlib``` and the less frequent ```copulae```.
 
 #### Still open questions?
 
